@@ -341,4 +341,4 @@ Zapis do pliku:
 
 Obsłuż wyjątki: `IOException`, `FileNotFoundException`
 
-###### W oparciu o opracowanie dr inż. Wojciecha Kozła
+###### W oparciu o opracowanie dr inż. Wojciecha Kozioła
